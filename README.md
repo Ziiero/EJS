@@ -1,0 +1,2 @@
+# EJS
+Effective JavaScript templating.
